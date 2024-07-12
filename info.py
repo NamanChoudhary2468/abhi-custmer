@@ -17,8 +17,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', '25163484'))
-API_HASH = environ.get('API_HASH', '145bcbc424d1c1ffe04f3e607ea55c9a')
+API_ID = int(environ.get('API_ID', '28921110'))
+API_HASH = environ.get('API_HASH', 'a731a3ecdbb86791ff381e3722fdcdb0')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
@@ -29,8 +29,8 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002137528664'))
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6302921275').split()]
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002124590737'))
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6302921275 5559497052 6088506302').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002075429339 -1002145382878 -1001934525883 -1002039117054 -1002004849968 -1002073480988 -1002087386412 -1002121649557 -1001584064219 -1001749313075 -1002038633493 -1002137528664 -1002077178570 -1002029547741 -1002077178570 -1001613574728 -1002048583251 -1001482631371 -1002019402843 -1002019646585 -1002199963727 -1002148773240 -1001972977023 -1001942558541 -1002083199283 -1001972977023 -1001942558541 -1002083199283 -1001658823824 -1001116179493 -1002137528664 -1001609906203 -1001925233125 -1002094057193 -1002020242463 -1002079712359  -1002165297790 -1002158385438 -1002026546209 -1002228043698 -1001836124367 AV1world').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -46,12 +46,12 @@ REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', ' -1002180948050')).split()]
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 
 # MongoDB information
-SECONDDB_URI = environ.get('SECONDDB_URI', None)
-DATABASE_URI = environ.get('DATABASE_URI', "")
+SECONDDB_URI = environ.get('SECONDDB_URI', "mongodb+srv://fowardbot:fowardbot@cluster0.qjwunlh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Ace404:<09956243658>@cluster0.epvroeb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -66,10 +66,10 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Spider_Man_02') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/requestxultron')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+5J3zDEwxJc4zZDBl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Tonystark_botz')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MovieTimesXDisc') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 't.me/+5J3zDEwxJc4zZDBl') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
