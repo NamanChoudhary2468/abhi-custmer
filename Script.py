@@ -1,5 +1,5 @@
 # Don't Remove Credit @Tonystark_botz
-# Ask Doubt on telegram @Spider_Man_02
+# Ask Doubt on telegram @Datteboyo0
 
 
 class script(object):
@@ -14,7 +14,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Spider_Man_02'>ᴘᴇᴛᴇʀ ᴘᴀʀᴋᴇʀ(ɴᴀᴍᴀɴ)</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Datteboyo0'>InlineKeyboardButtonᴘᴇᴛᴇʀ ᴘᴀʀᴋᴇʀ(ɴᴀᴍᴀɴ)</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -45,7 +45,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
 
 # Don't Remove Credit @Tonystark_botz
-# Ask Doubt on telegram @Spider_Man_02
+# Ask Doubt on telegram @Datteboyo0
     
     BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
 - ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
@@ -81,12 +81,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
 # Don't Remove Credit @Tonystark_botz
-# Ask Doubt on telegram @Spider_Man_02
+# Ask Doubt on telegram @Datteboyo0
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Spider_Man_02>ꜱᴘɪᴅᴇʀ_ᴍᴀɴ_02</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Datteboyo0>ꜱᴘɪᴅᴇʀ_ᴍᴀɴ_02</a></b>
   
  <b>✯ Join here : <a href=https://t.me/MovieTimes_TV>☢Join my updates☢</a></b> 
   
@@ -691,9 +691,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/PeterParker(Naman)'>ᴘᴇᴛᴇʀ ᴘᴀʀᴋᴇʀ(ɴᴀᴍᴀɴ)</a>
+-Owner of this bot <a href='https://t.me/Datteboyo0'>Datteboyo</a>
 
--Dev 2 <a href='https://t.me/PeterPaker(Naman)'>ᴘᴇᴛᴇʀ ᴘᴀʀᴋᴇʀ(ɴᴀᴍᴀɴ)</a>
+-Dev 1 <a href='https://t.me/Spider_Man_02'>ᴘᴇᴛᴇʀ ᴘᴀʀᴋᴇʀ(ɴᴀᴍᴀɴ)</a>
 
 -Dev 3 <a href='https://t.me/Tonystark_botz>ᴛᴏɴʏ ꜱᴛᴀʀᴋ ʙᴏᴛᴢ</a>
 
@@ -727,7 +727,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
 # Don't Remove Credit @Tonystark_botz
-# Ask Doubt on telegram @Spider_Man_02
+# Ask Doubt on telegram @Datteboyo0
 
 
     
