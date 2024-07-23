@@ -10,7 +10,6 @@ yt-dlp
 youtube-dl
 requests
 ytthumb
-jinja2
 apscheduler
 pyshorteners
 colorama
