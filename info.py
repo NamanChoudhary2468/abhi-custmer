@@ -69,7 +69,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Datteboyo0') # owner username wi
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+5J3zDEwxJc4zZDBl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/moviesproviders1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 't.me/+5J3zDEwxJc4zZDBl') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 't.me/+m0HQQeDgsyI3M2U1') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
